@@ -1,0 +1,48 @@
+ID Empfehlungsmodell,Nutzen,Berechnungszeit Erklärungen ALSExplainer,Parameter,Berechnungszeit Erklärungen AR,Berechnungszeit Erklärungen kNN,# Empfehlungen,fidelity = mep ALSExplainer,fidelity = mep AR,fidelity = mep kNN
+52,Mindesthäufigkeit,,"0,1",-,,4770,,-,
+52,Mindesthäufigkeit,,"0,05",5s,,4770,,"0,003983228512",
+52,Mindesthäufigkeit,,"0,025","4,9s",,4770,,"0,08825995807",
+52,Mindesthäufigkeit,,"0,02",5s,,4770,,"0,1037735849",
+52,Mindesthäufigkeit,,"0,015","5,2s",,4770,,"0,1561844864",
+52,Mindesthäufigkeit,,"0,01","5,9s",,4770,,"0,3423480084",
+52,Mindesthäufigkeit,,"0,0075","7,2s",,4770,,"0,4616352201",
+52,Mindesthäufigkeit,,"0,005","11,9s",,4770,,"0,7056603774",
+52,Mindesthäufigkeit,,"0,0025","27,5s",,4770,,"0,9020964361",
+52,Mindesthäufigkeit,,"0,001",1m49s,,4770,,"0,9886792453",
+52,Mindesthäufigkeit,,"0,0005","1m48,2s",,4770,,"0,9886792453",
+53,Mindesthäufigkeit,,"0,1",-,,4770,,-,
+53,Mindesthäufigkeit,,"0,05","4,8s",,4770,,"0,004821802935",
+53,Mindesthäufigkeit,,"0,025",5s,,4770,,"0,09014675052",
+53,Mindesthäufigkeit,,"0,02","4,9s",,4770,,"0,1081761006",
+53,Mindesthäufigkeit,,"0,015","5,2s",,4770,,"0,1660377358",
+53,Mindesthäufigkeit,,"0,01",6s,,4770,,"0,3249475891",
+53,Mindesthäufigkeit,,"0,0075","7,2s",,4770,,"0,4570230608",
+53,Mindesthäufigkeit,,"0,005","11,8s",,4770,,"0,7266247379",
+53,Mindesthäufigkeit,,"0,0025","27,8s",,4770,,"0,9008385744",
+53,Mindesthäufigkeit,,"0,001","1m48,8s",,4770,,"0,9874213836",
+53,Mindesthäufigkeit,,"0,0005","1m48,5s",,4770,,"0,9874213836",
+54,Mindesthäufigkeit,,"0,1","4,7s",,4770,,0,
+54,Mindesthäufigkeit,,"0,05","4,8s",,4770,,0,
+54,Mindesthäufigkeit,,"0,025","4,9s",,4770,,"0,08637316562",
+54,Mindesthäufigkeit,,"0,02","4,8s",,4770,,"0,113836478",
+54,Mindesthäufigkeit,,"0,015","5,3s",,4770,,"0,1683438155",
+54,Mindesthäufigkeit,,"0,01","5,9s",,4770,,"0,3467505241",
+54,Mindesthäufigkeit,,"0,0075","7,1s",,4770,,"0,4645702306",
+54,Mindesthäufigkeit,,"0,005","11,9s",,4770,,"0,7121593291",
+54,Mindesthäufigkeit,,"0,0025","27,7s",,4770,,"0,9041928721",
+54,Mindesthäufigkeit,,"0,001",1m49s,,4770,,"0,9880503145",
+54,Mindesthäufigkeit,,"0,0005","1m49,4s",,4770,,"0,9880503145",
+54,Anzahl der Nachbarn,,10,,"1,2s",4770,,,"0,3914046122"
+54,Anzahl der Nachbarn,,25,,"1,3s",4770,,,"0,5136268344"
+54,Anzahl der Nachbarn,,50,,"1,3s",4770,,,"0,6037735849"
+54,Anzahl der Nachbarn,,100,,"1,3s",4770,,,"0,6926624738"
+54,Anzahl der Nachbarn,,200,,"1,4s",4770,,,"0,7758909853"
+54,Anzahl der Nachbarn,,300,,"1,5s",4770,,,"0,8224318658"
+54,Anzahl der Nachbarn,,400,,"1,6s",4770,,,"0,8553459119"
+54,Anzahl der Nachbarn,,500,,"1,6s",4770,,,"0,8821802935"
+54,Anzahl der Nachbarn,,600,,"1,8s",4770,,,"0,905870021"
+54,Anzahl der Nachbarn,,700,,"1,8s",4770,,,"0,9264150943"
+54,Anzahl der Nachbarn,,800,,"1,9s",4770,,,"0,9469601677"
+54,Anzahl der Nachbarn,,900,,2s,4770,,,"0,9607966457"
+54,Anzahl der Nachbarn,,1000,,"2,1s",4770,,,"0,9748427673"
+54,Anzahl der Nachbarn,,1500,,"2,5s",4770,,,"0,9997903564"
